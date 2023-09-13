@@ -2,3 +2,8 @@ body {
     color:red;
     font-family: Tahoma, sans-serif;
 }
+
+ul {
+    list-style:none;
+    border: 1px dotted red;
+}
